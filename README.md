@@ -20,8 +20,18 @@
 	（北京丽聘咨询有限公司）
 	Ren Andy: https://www.linkedin.com/in/ren-andy-789a8b174/
 
-# 策略平台
-	[collective2](https://trade.collective2.com/howc2works/)
+# 策略平台 
+[知乎](https://www.zhihu.com/question/62413612/answer/198087750)
+
+[collective2](https://trade.collective2.com/howc2works/)
+
+[bigQuant](https://bigquant.com/)
+
+[聚宽](https://www.joinquant.com/)
+
+[优矿](https://uqer.datayes.com/)
+
+[factors](http://factors.chinascope.com/)
 
 # 学习资源
 	MindGo量化社区；
@@ -42,7 +52,12 @@
 	《【Python金融量化】零基础如何开始学》
 	《量化投资—策略与技术》 丁鹏
 	《因子投资：方法与实践》
-
+	优矿的《追踪聪明钱 - A股市场交易的微观结构初探》这篇帖子，成为了无数用户的代码范本。
+	万矿免费的WQFA量化课程，给平台圈粉无数。
+	聚宽的高校数据教学免费支持计划，对平台在高校用户的培养添砖加瓦。
+	BigQuant在AI方面的量化百科，给平台了增加专业度。
+	米筐的RQData Excel插件，对其数据的使用和用户培养都起到了作用。
+	掘金的机构版对用户免费试用。
 # 量化文章
 	量化api总结：
 		https://zhuanlan.zhihu.com/p/93730699
