@@ -60,3 +60,10 @@
 	https://zhuanlan.zhihu.com/p/30119302
 深度学习因子：
 	https://zhuanlan.zhihu.com/p/133637539
+	
+# 面经
+http://wiki.greenwicher.com/2018/03/01/zhihu-live-guide-of-quant-career-in-china/
+https://www.zhihu.com/question/62031149
+https://blog.csdn.net/weixin_42327556/article/details/101844256
+http://wiki.greenwicher.com/2018/02/12/zhihu-live-quant-interviews-1/
+https://offerbang.io/webinar/260/play
