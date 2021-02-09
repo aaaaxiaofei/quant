@@ -79,7 +79,10 @@
 		https://zhuanlan.zhihu.com/p/30119302
 	深度学习因子：
 		https://zhuanlan.zhihu.com/p/133637539
-	
+
+# 量化策略
+[掘金量化](https://www.myquant.cn/docs/python_strategyies/112)
+
 # 面经
 	http://wiki.greenwicher.com/2018/03/01/zhihu-live-guide-of-quant-career-in-china/
 	https://www.zhihu.com/question/62031149
