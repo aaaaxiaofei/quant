@@ -35,6 +35,7 @@
 
 # 学习资源
 [mit finance theory](https://ocw.mit.edu/courses/sloan-school-of-management/15-401-finance-theory-i-fall-2008/index.htm)
+
 	MindGo量化社区；
 	优矿量化社区；
 	聚宽量化社区；
